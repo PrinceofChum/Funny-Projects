@@ -14,24 +14,11 @@ def flames(name1,name2):
     while len(flame)>1:
             del flame[finc%len(flame)-1] 
 
-    print (*flame)
+    print ('\n',*flame,'\n')
 
 
 if __name__ == "__main__":
-    print("<----- FLAMES ----->")
-    name1=list(input("Unga name sollunga.. -->").lower().strip())
-    name2=list(input("Avanga name enna.. -->").lower().strip())
+    print("<----- FLAMES ----->\n")
+    name1=list(input("Unga name sollunga.. --> ").lower().strip())
+    name2=list(input("Avanga name enna.. --> ").lower().strip())
     flames(name1,name2)
-
-
-'''
-#Not Completed
-import HerDefaults
-def YaarAnthaPonnu(She):
-    if She is Cute and Charming:
-        if She is Topper and Intelligent:
-            if She is Short and VeryGoodCharacter:
-                return She is Programmer 
-
-print(YaarAnthaPonnu())
-'''
