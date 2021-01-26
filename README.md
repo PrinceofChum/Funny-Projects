@@ -6,5 +6,5 @@ I do these when I feel bored; These may be helpful to those who want to create W
 
 ### Yaar Antha Ponnu (Who is that girl)
     
-    -FLAMES (relationship preditor)
+    -FLAMES (relationship predictor)
     -Love Calculator (Based on Name)
