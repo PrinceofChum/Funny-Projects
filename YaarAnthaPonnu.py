@@ -1,8 +1,8 @@
 def flames(name1,name2):
     total=len(name1)+len(name2)
     count=0 
-    flame=['Just "Friends"','Uh-huh, "LOVE!"','Hmm, "Affection."',
-            'Congrats, "Marriage.."','Whooops.."Enemy!"','Huh.."Sibilings."']
+    flame=['You are Just "Friends"','Uh-huh, "LOVE!"','Hmm, "Affection."',
+            'Congrats, "Marriage.."','Whooops.."Enemy!"','Oh no.."It shows Sibilings."']
 
     for let1 in name1:
         if let1 in name2:
